@@ -1,0 +1,3 @@
+DB_URL = "mongodb://localhost:27017"
+JWT_SECRET = 'e0b3b957ghjgh6617d59ab4385e111'
+JWT_ALGORITHM = 'HS256'
