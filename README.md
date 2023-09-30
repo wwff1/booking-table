@@ -1,6 +1,6 @@
 Тестовое задание Python Backend Developer
 
-Технолоогии:
+Технологии:
 - Python
 - Fast API
 - REST API
